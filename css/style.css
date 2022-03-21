@@ -2924,7 +2924,6 @@ html.menu-open .header__img-main {
   }
 
   .photos__item picture {
-    
     max-width: 75%;
   }
 
@@ -2946,7 +2945,7 @@ html.menu-open .header__img-main {
     padding: 20px 0 30px 0;
   }
 
-  .recommend__img img {
+  .recommend__img picture {
     max-width: 80px;
   }
 
