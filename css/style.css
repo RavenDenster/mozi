@@ -2187,15 +2187,7 @@ html.menu-open .header__img-main {
   }
 }
 
-@media (max-width: 529px) {
-  .question__btns {
-    display: block;
-  }
 
-  .question__btn:last-child {
-    margin-top: 10px;
-  }
-}
 
 @media (max-width: 528px) {
   .empty__btn {
@@ -3031,6 +3023,15 @@ html.menu-open .header__img-main {
   }
 }
 
+@media (max-width: 33.062em){
+ .question__btns {
+    display: block;
+  }
+  .question__btn:last-child {
+    margin-top: 10px;
+  }
+}
+
 @media (max-width: 38.75em) {
   .recommend__container {
     -webkit-box-orient: vertical;
@@ -3045,6 +3046,13 @@ html.menu-open .header__img-main {
 
   .recommend__title {
     margin-left: 0;
+  }
+  
+  .recommend__container{
+    display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
   }
   
   .item-recommend-first {
