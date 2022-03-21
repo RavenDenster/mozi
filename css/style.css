@@ -3046,6 +3046,17 @@ html.menu-open .header__img-main {
   .recommend__title {
     margin-left: 0;
   }
+  
+  .item-recommend-first {
+  padding-left: 0;
+  display: flex;
+    ms-flex-direction: column;
+  flex-direction: column;
+    justify-content: center;
+   align-items: center;
+  text-align: center;
+      
+}
 
   .item-recommend-second {
     -webkit-box-orient: vertical;
