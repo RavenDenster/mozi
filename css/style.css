@@ -940,6 +940,7 @@ html.menu-open .header__img-main {
 }
 
 .question__btns {
+  white-space: nowrap;
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
