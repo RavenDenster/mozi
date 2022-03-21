@@ -3068,6 +3068,7 @@ html.menu-open .header__img-main {
             flex-direction: column;
     text-align: center;
     padding-left: 0;
+    margin-left: 0;
     margin-bottom: 30px;
  }
 
