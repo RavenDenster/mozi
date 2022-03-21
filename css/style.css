@@ -2919,11 +2919,12 @@ html.menu-open .header__img-main {
     margin-top: 20px;
   }
 
-  .photos__item:nth-child(even)  img{
-    margin-left: 25%;
+    .photos__item:nth-child(even) picture {
+    margin-left: auto;
   }
 
-  .photos__item img {
+  .photos__item picture {
+    
     max-width: 75%;
   }
 
