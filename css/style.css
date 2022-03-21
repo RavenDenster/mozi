@@ -15,7 +15,6 @@
   font-weight: 400;
   font-style: normal;
 }
-
 * {
   padding: 0px;
   margin: 0px;
@@ -244,6 +243,10 @@ html.menu-open .header__img-main {
       -ms-flex-align: center;
           align-items: center;
   position: relative;
+}
+
+.question__btn{
+  white-space: nowrap;
 }
 
 .header__logo {
