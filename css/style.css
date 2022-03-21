@@ -3023,10 +3023,11 @@ html.menu-open .header__img-main {
   }
 }
 
-@media (max-width: 33.062em){
- .question__btns {
+@media (max-width: 33.0625em) {
+  .question__btns {
     display: block;
   }
+
   .question__btn:last-child {
     margin-top: 10px;
   }
@@ -3079,7 +3080,7 @@ justify-content: center;
   }
 }
 
- 
+
 
 @media (max-width: 29.99875em) {
   .list-item {
