@@ -2963,6 +2963,10 @@ html.menu-open .header__img-main {
   .recommend {
     padding: 30px 0 60px 0;
   }
+  
+  .recommend__container{
+    padding: 20px 0 30px 0;
+  }
 
   .recommend__img img {
     max-width: 80px;
