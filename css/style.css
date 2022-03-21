@@ -2943,7 +2943,7 @@ html.menu-open .header__img-main {
   }
 
   .photos__item:nth-child(even) img {
-    margin-left: 100px;
+    margin-left: 25%;
   }
 
   .photos__item img {
