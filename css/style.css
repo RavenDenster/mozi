@@ -3061,6 +3061,16 @@ html.menu-open .header__img-main {
   }
 }
 
+ .item-recommend-first {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    text-align: center;
+    padding-left: 0;
+    margin-bottom: 30px;
+ }
+
 @media (max-width: 29.99875em) {
   .list-item {
     -webkit-box-flex: 1;
