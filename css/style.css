@@ -1318,6 +1318,11 @@ html.menu-open .header__img-main {
           flex: 0 1 540px;
 }
 
+.photos__item:nth-child(5) {
+  position: relative;
+  top: -55px;
+}
+
 .photos__item:last-child {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -2931,6 +2936,11 @@ html.menu-open .header__img-main {
   .photos__item:nth-child(4) {
     margin-bottom: 0;
   }
+  
+  .photos__item:nth-child(5) {
+  position: relative;
+  top: 0;
+}
 
   .photos__item {
     -webkit-box-flex: 1;
